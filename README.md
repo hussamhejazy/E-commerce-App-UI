@@ -2,6 +2,7 @@
 
 A new UI E-commerce App with Flutter
 by: hussam_hejazy
+![2201117PG_2023-04-05_01-23-53_AdobeExpress](https://user-images.githubusercontent.com/60976526/229936293-01b28673-5e33-4847-8f8f-9dae3dd950e4.gif)
 
 ## Getting Started
 
